@@ -11,7 +11,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif"  />
+  <img height="300" width="600" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif"  />
 </div>
 
 ###
