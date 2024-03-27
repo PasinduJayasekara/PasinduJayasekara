@@ -1,4 +1,4 @@
-<h2 align="center">I'm Pasindu jayasekara...<br>Software Engineering Undergraduate from Sri Lanka...</h2>
+<h2 align="center">I'm Pasindu Rashmitha Jayasekara...<br>From Sri Lanka</h2>
 
 ###
 
