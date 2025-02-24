@@ -38,6 +38,13 @@
 - 📫 How to reach me **jmprjayasekara@gmail.com**
 ###
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/pasindu jayasekara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pasindu jayasekara" height="30" width="40" /></a>
+<a href="https://fb.com/pasindu jayasekara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pasindu jayasekara" height="30" width="40" /></a>
+<a href="https://instagram.com/pasindu__jayasekara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pasindu__jayasekara" height="30" width="40" /></a>
+</p>
+
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
