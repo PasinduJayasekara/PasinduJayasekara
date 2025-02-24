@@ -34,6 +34,8 @@
 
 <p align="left">I'm Pasindu Rashmitha Jayasekara, a 21-year-old Computer Science student from Sri Lanka. I specialize in backend coding and am passionate about creating efficient systems.<br><br>I want to spread further my career in this area while learning new technologies and frameworks. My<br>ultimate career aspiration is to become a specialist with backend systems, contributing to<br>projects benefiting real-life users.</p>
 
+
+- 📫 How to reach me **jmprjayasekara@gmail.com**
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
