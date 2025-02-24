@@ -1,4 +1,4 @@
-<h3 align="center">Hii... I'm Pasindu Jayasekara from Sri Lanka.</h3>
+<h3 align="center">Hii... I'm Pasindu Jayasekara, Computer Science Undegraduate from Sri Lanka.</h3>
 
 ###
 
@@ -90,8 +90,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=PasinduJayasekara&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+
 
 ###
