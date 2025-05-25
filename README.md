@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="center">This GitHub is where I share my personal and academic projects, experiments, and learning journey in software development.</h4>
+<h3 align="center">This GitHub is where I share my personal and academic projects, experiments, and learning journey in software development.</h3>
 
 ###
 
