@@ -1,4 +1,4 @@
-<h4 align="center">Hi, I'm Pasindu Jayasekara <br> A computer science undergraduate passionate about backend development, algorithms, and building efficient systems.</h4>
+<h3 align="center">Hi, I'm Pasindu Jayasekara <br> A computer science undergraduate passionate about backend development, algorithms, and building efficient systems.</h3>
 
 ###
 
@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="center">This GitHub is where I share my personal and academic projects, experiments, and learning journey in software development.</h3>
+<h4 align="center">This GitHub is where I share my personal and academic projects, experiments, and learning journey in software development.</h4>
 
 ###
 
